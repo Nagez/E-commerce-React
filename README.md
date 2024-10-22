@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 ---------------------------------------------------------------------------------------------------------------------------------
 Use username admin and password admin for the admin pages.
-register or login woth google for the customer pages. 
+
+register or login with google for the customer pages. 
